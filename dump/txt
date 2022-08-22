@@ -1,0 +1,19 @@
+#slider input{
+    display: none;
+}
+
+#btn1:checked ~ .first{
+    margin-left: 0;
+}
+#btn2:checked ~ .first{
+    margin-left: -20%;
+}
+#btn3:checked ~ .first{
+    margin-left: -40%;
+}
+#btn4:checked ~ .first{
+    margin-left: -60%;
+}
+#btn5:checked ~ .first{
+    margin-left: -80%;
+}

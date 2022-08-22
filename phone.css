@@ -1,0 +1,9 @@
+.paincontent{
+    flex-direction: column;
+}
+.painpara{
+    width: 90%;
+}
+.buttons{
+    margin-top: 5%;
+}
